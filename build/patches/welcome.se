@@ -1,0 +1,5 @@
+Print "Welcome to SE Chaos Edition!" { Time 3.0, AlignY "TOP" }
+
+Wait 3.0
+
+Print "You have 10 seconds before the chaos begins if you've changed your mind." { Time 10.0, AlignY "TOP" }

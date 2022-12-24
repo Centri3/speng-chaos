@@ -1,0 +1,10 @@
+[package]
+name = "chaos-patch"
+version = "0.0.0"
+edition = "2021"
+
+[dependencies]
+once_cell = "1.16.0"
+rand = "0.8.5"
+serde = { version = "1.0.151", features = ["derive"] }
+toml = "0.5.10"

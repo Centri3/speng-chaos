@@ -1,0 +1,6 @@
+[data]
+    script = "general_speedy.se"
+    opcodes = []
+
+[persistence]
+    chance = 0

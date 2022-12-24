@@ -1,0 +1,7 @@
+[data]
+    opcodes = [
+        { address = ["SpaceEngine.exe", 0x69BFE4], on = [0x83, 0xF0, 0xFC, 0x66], off = [0x52, 0x16, 0x9E, 0x68] },
+    ]
+
+[persistence]
+    chance = 0.5

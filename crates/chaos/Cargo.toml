@@ -1,0 +1,9 @@
+[package]
+name = "chaos"
+version = "1.0.0"
+edition = "2021"
+
+[dependencies]
+chaos-handler = { path = "../chaos-handler" }
+chaos-patch = { path = "../chaos-patch" }
+rand = "0.8.5"

@@ -1,0 +1,7 @@
+[data]
+    opcodes = [
+        { address = ["nvoglv64.DLL", 0xE974F0], on = [0x0F, 0x1F, 0x00], off = [0x0F, 0x10, 0x03] },
+    ]
+
+[persistence]
+    chance = 0.5

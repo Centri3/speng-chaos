@@ -1,0 +1,6 @@
+[data]
+    script = "star_browser_no_search_for_you.se"
+    opcodes = []
+
+[persistence]
+    chance = 0

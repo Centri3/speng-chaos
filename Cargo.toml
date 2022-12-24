@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "crates/chaos",
+    "crates/chaos-handler",
+    "crates/chaos-patch",
+]
